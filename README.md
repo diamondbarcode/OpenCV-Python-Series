@@ -10,3 +10,9 @@ New to OpenCV? Try this: https://youtu.be/YY9f-6u2Q_c
 - Mac: https://youtu.be/iluST-V757A
 - Windows: https://youtu.be/Fcc_jemaoNU
 - Linux with Pi Awesome: https://kirr.co/sx77b7
+
+i just make my own copy so i can save change to make it work for
+
+opencv 4.4 with cuda
+jetpack 4.4
+and face_reconizer
